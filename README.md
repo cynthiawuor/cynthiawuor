@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cynthiawuor
-- 👀 I’m interested in learning both front end and back end
+- 👀 I’m interested in learning all programming languages
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cynthiawuor254@gmail.com
